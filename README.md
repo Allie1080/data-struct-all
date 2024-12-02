@@ -8,7 +8,7 @@
 ## Midterms
 [Vector Activity](https://www.youtube.com/watch?v=GZGVS623lFw)
 
-[Midterms Project](https://github.com/Allie1080/data-struct-all/fantasy-game-inventory-crud)
+[Midterms Project](https://github.com/Allie1080/data-struct-all/tree/main/fantasy-game-inventory-crud)
 
 ## Semis
 [Tower of Hanoi Activity](https://github.com/Allie1080/tower-of-hanoi)
